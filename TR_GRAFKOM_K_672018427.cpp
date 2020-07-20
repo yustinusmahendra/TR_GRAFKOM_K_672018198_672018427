@@ -1616,8 +1616,9 @@ void tampil(void)
 	glVertex3f(125, 0.2, 80);
 	glVertex3f(110,0.2,80);
 	
-	glVertex3f(125, 0.2, 90);
-	glVertex3f(110,0.2,90);
+
+	glVertex3f(-125, 0.2, 90);
+	glVertex3f(-110,0.2,90);
 	
 	glEnd();	
 	
