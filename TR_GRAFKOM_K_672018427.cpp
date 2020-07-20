@@ -23,7 +23,7 @@ int main (int argc, char **argv)
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
 	glutInitWindowSize(800, 600);
 	glutInitWindowPosition(250, 50);
-	glutCreateWindow("STADE DES ALPES - 672018198, 672018427");
+	glutCreateWindow("TR GRAFKOM - STADE DES ALPES - 672018198 & 672018427");
 	init();
 	glutDisplayFunc(tampil);
 	glutKeyboardFunc(keyboard);
